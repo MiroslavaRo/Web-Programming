@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Web Programming Introduction", "01 Web Programming Introduction\01 Web Programming Introduction.csproj", "{21E8E626-0ECF-4CE1-B2A6-E4588F212870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 Web Programming Introduction", "01 Web Programming Introduction\01 Web Programming Introduction.csproj", "{21E8E626-0ECF-4CE1-B2A6-E4588F212870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 ASP.NET Introduction", "02 ASP.NET Introduction\02 ASP.NET Introduction.csproj", "{D2F9E47F-C64E-4D36-9C2B-B06585D9B1EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{21E8E626-0ECF-4CE1-B2A6-E4588F212870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21E8E626-0ECF-4CE1-B2A6-E4588F212870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21E8E626-0ECF-4CE1-B2A6-E4588F212870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F9E47F-C64E-4D36-9C2B-B06585D9B1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F9E47F-C64E-4D36-9C2B-B06585D9B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F9E47F-C64E-4D36-9C2B-B06585D9B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F9E47F-C64E-4D36-9C2B-B06585D9B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
